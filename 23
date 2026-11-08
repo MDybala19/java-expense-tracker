@@ -1,0 +1,24 @@
+TransactionID,Type,Amount,Category,Description,Date
+1001,Income,2400.00,Salary,Part-time bank paycheque,2026-09-15
+1002,Expense,950.00,Rent,September rent,2026-09-01
+1003,Expense,86.40,Food,Weekly groceries,2026-09-05
+1004,Expense,45.00,Transportation,Monthly transit pass top-up,2026-09-03
+1005,Expense,62.75,Entertainment,Movie night and snacks,2026-09-12
+1006,Income,2400.00,Salary,Part-time bank paycheque,2026-09-30
+1007,Expense,120.00,Shopping,Textbooks,2026-09-08
+1008,Expense,950.00,Rent,October rent,2026-10-01
+1009,Expense,92.15,Food,Weekly groceries,2026-10-04
+1010,Expense,45.00,Transportation,Monthly transit pass top-up,2026-10-03
+1011,Income,2500.00,Salary,Part-time bank paycheque,2026-10-15
+1012,Expense,34.99,Entertainment,Streaming subscriptions,2026-10-10
+1013,Expense,210.50,Shopping,Winter jacket,2026-10-18
+1014,Income,2500.00,Salary,Part-time bank paycheque,2026-10-31
+1015,Expense,950.00,Rent,November rent,2026-11-01
+1016,Expense,78.30,Food,Weekly groceries,2026-11-02
+1017,Expense,45.00,Transportation,Monthly transit pass top-up,2026-11-03
+1018,Expense,55.00,Other,Phone bill,2026-11-04
+1019,Income,150.00,Other,Sold used laptop stand,2026-11-05
+1020,Expense,29.99,Entertainment,Video game,2026-11-06
+1022,Expense,100.00,Food,Lunch,2026-10-31
+1023,Expense,100.00,6,6,2026-10-21
+1024,Expense,100.00,Food,Lunch,2026-10-20
